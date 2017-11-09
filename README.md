@@ -1,4 +1,3 @@
-[logo]: http://leonvoerman.nl/github/detect.png "Mass-scan-detection"
 ![alt text](http://leonvoerman.nl/github/detect.png)
 
 # Mass-scan-detection v0.0.1
