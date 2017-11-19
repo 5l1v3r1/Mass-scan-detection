@@ -11,3 +11,6 @@ Only works on Slowloris sofar
 
 ## What does it do
 **NSE scripts send data that is being picked up to find the scan.**
+
+**Only works when the given port is being scanned.**
+**Scan scan be detected when everyone port was scanned.**
